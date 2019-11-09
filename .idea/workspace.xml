@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="203f13dd-5f62-4949-aca2-e7b56aa40d43" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/padroesdeprojeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/MiniDuckSimullator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyNoWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyWithRockets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyWithWings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/MuteQuack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/Quack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/QuackBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/Squeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/PlasticDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/padroesdeprojeto.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/MiniDuckSimullator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyNoWay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithRockets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithWings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/MuteQuack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Quack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/QuackBehavior.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Squeak.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/Duck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/MallardDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/ModelDuck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/PlasticDuck.class" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/usr/share/maven/" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1TNXM7JBMsioLFteTOcZka3uzL2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MiniDuckSimullator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.padroesdeprojeto.strategy.MiniDuckSimullator" />
+      <module name="padroesdeprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.padroesdeprojeto.strategy.model.attributes.fly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MiniDuckSimullator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="203f13dd-5f62-4949-aca2-e7b56aa40d43" name="Default Changelist" comment="" />
+      <created>1573301475933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573301475933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
