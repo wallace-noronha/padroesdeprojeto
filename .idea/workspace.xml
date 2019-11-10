@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="203f13dd-5f62-4949-aca2-e7b56aa40d43" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/MiniDuckSimullator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithRockets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Squeak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/ModelDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/PlasticDuck.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +59,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/observer" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -54,6 +67,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/observer" />
       <recent name="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy" />
     </key>
   </component>
@@ -69,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.WeatherStation">
     <configuration name="MiniDuckSimullator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.padroesdeprojeto.strategy.MiniDuckSimullator" />
       <module name="padroesdeprojeto" />
@@ -83,8 +97,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.padroesdeprojeto.observer.WeatherStation" />
+      <module name="padroesdeprojeto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.padroesdeprojeto.observer.view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MiniDuckSimullator" />
       </list>
     </recent_temporary>
