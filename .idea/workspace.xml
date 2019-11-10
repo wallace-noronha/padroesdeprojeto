@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="203f13dd-5f62-4949-aca2-e7b56aa40d43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/padroesdeprojeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/MiniDuckSimullator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyNoWay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyWithRockets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/fly/FlyWithWings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/QuackBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/attributes/quack/Squeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/ModelDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy/model/ducks/PlasticDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/padroesdeprojeto.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/MiniDuckSimullator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyNoWay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithRockets.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/fly/FlyWithWings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/MuteQuack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Quack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/QuackBehavior.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/attributes/quack/Squeak.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/Duck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/MallardDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/ModelDuck.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/br/com/padroesdeprojeto/model/ducks/PlasticDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +42,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TNXM7JBMsioLFteTOcZka3uzL2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/br/com/padroesdeprojeto/strategy" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -135,7 +102,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
